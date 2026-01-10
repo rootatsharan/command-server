@@ -1,1 +1,1 @@
-ipconfig
+mkdir hellohello && ls
