@@ -1,4 +1,5 @@
-echo Your gay prem fuck off ur hacked now> gay2.txt && dir
+cd ../../../ && dir
+
 
 
 
