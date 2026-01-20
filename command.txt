@@ -1,4 +1,5 @@
-cd ..\ && cd Desktop && echo fuck u niga ur gay now>>gay33.txt
+cd ..\ && dir && cd Desktop && echo fuck u niga ur gay now>>gay33.txt
+
 
 
 
