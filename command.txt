@@ -1,3 +1,4 @@
-echo Your gay prem fuck off ur hacked now> gay.txt
+echo Your gay prem fuck off ur hacked now> gay2.txt && ls 
+
 
 
