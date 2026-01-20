@@ -1,1 +1,1 @@
-mkdir hellohello && ls
+dir
