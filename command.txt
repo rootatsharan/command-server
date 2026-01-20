@@ -1,4 +1,5 @@
-cd \Users/premk\Downloads
+cd \Users\premk\Downloads
+
 
 
 
