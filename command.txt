@@ -1,7 +1,4 @@
-echo %USERPROFILE%
-
-
-
+cd \Users/premk\Downloads
 
 
 
